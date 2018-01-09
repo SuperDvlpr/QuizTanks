@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">QuizTanks</string>
+    <string name="title_activity_tab">TabActiv</string>
+    <string name="action_settings">Settings</string>
+    <string name="option">option</string>
+    <string name="top">top</string>
+    <string name="Name">Name</string>
+    <string name="toast_short_name">Name is too short</string>
+
+    <string name="no_button">No</string>
+    <string name="main_menu_button">Main menu</string>
+    <string name="result_title">Результат</string>
+    <string name="right_answer_count_text">Правильные ответы:</string>
+    <string name="score_text">Очки:</string>
+    <string name="time_score">Время:</string>
+    <string name="back_button_title">Finish the game?</string>
+    <string name="toast_null_type_selected">No type selected</string>
+    <string name="start_button">Start game</string>
+    <string name="settings_button">Настройки</string>
+    <string name="rating_button">Рейтинг</string>
+    <string name="exit_google_button">Exit</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="type_text">Типы техники:</string>
+    <string name="num_of_resp_opt_text">Количество ответов</string>
+    <string name="auto_paging_switch">Automatic paging</string>
+    <string name="loading_text">Loading…</string>
+    <string name="rating_text">" Player Rankings"</string>
+    <string name="new_record_title">Новый рекорд!</string>
+    <string name="back_button_message">Весь прогресс будет потерян!</string>
+    <string name="yes_button">Yes</string>
+    <string name="light_tanks_checkbox">Легкие танки</string>
+    <string name="medium_tanks_checkbox">Средние танки</string>
+    <string name="heavy_tanks_checkbox">Тяжелые танки</string>
+    <string name="ptsau_tanks_checkbox">ПТ-САУ</string>
+    <string name="sau_tanks_checkbox">САУ</string>
+
+    <string name="banner_ad_unit_id1" translatable="false">ca-app-pub-2992417291220561/3155736524</string>
+    <string name="banner_ad_unit_id2" translatable="false">ca-app-pub-2992417291220561/1335264683</string>
+    <string name="initializeADsID" translatable="false">ca-app-pub-2992417291220561~7365486410</string>
+
+    <string-array name="light_tanks">
+        <item>МС-1</item>
+        <item>БТ-2</item>
+        <item>ЛТГ</item>
+        <item>Т-45</item>
+        <item>Т-26</item>
+        <item>Т-60</item>
+        <item>БТ-7</item>
+        <item>БТ-СВ</item>
+        <item>ЛТП</item>
+        <item>БТ-7 арт.</item>
+        <item>Т-127</item>
+        <item>Т-46</item>
+        <item>Т-70</item>
+        <item>А-20</item>
+        <item>Т-80</item>
+        <item>Т-50</item>
+        <item>МТ-25</item>
+        <item>ЛТТБ</item>
+        <item>Т-100 ЛТ</item>
+        <item>HWK 12</item>
+    </string-array>
+
+    <string-array name="medium_tanks">
+        <item>Т-29</item>
+        <item>А-32</item>
+        <item>Т-28</item>
+        <item>Т-34</item>
+        <item>А-43</item>
+        <item>Т-34-85</item>
+        <item>А-44</item>
+        <item>КВ-13</item>
+        <item>Т-43</item>
+        <item>Т-44-122</item>
+        <item>СТГ</item>
+        <item>T-44</item>
+        <item>Т-54</item>
+        <item>Объект 430</item>
+        <item>Объект 907</item>
+        <item>Т-22 ср.</item>
+        <item>Т-62А</item>
+        <item>Panther</item>
+        <item>E 50</item>
+        <item>Leopard 1</item>
+    </string-array>
+
+    <string-array name="heavy_tanks">
+        <item>КВ-1С</item>
+        <item>КВ–220–2</item>
+        <item>Maus</item>
+        <item>КВ-2</item>
+        <item>Tiger I</item>
+        <item>КВ-85</item>
+        <item>Т-150</item>
+        <item>ИС</item>
+        <item>КВ-3</item>
+        <item>КВ-122</item>
+        <item>ИС-2</item>
+        <item>ИС-3</item>
+        <item>ИС-6</item>
+        <item>КВ-5</item>
+        <item>КВ-4</item>
+        <item>ИС-5</item>
+        <item>Т-10</item>
+        <item>СТ-I</item>
+        <item>ИС-4</item>
+        <item>ИС-7</item>
+    </string-array>
+
+    <string-array name="pt_sau">
+        <item>АТ-1</item>
+        <item>СУ-76М</item>
+        <item>СУ-76И</item>
+        <item>СУ-85Б</item>
+        <item>СУ-85</item>
+        <item>СУ-85И</item>
+        <item>СУ-100</item>
+        <item>СУ-100Y</item>
+        <item>СУ-152</item>
+        <item>СУ-100М1</item>
+        <item>СУ-122-44</item>
+        <item>ИСУ-152</item>
+        <item>СУ-101</item>
+        <item>Объект 704</item>
+        <item>СУ-122-54</item>
+        <item>Объект 263</item>
+        <item>Объект 268</item>
+        <item>Jagdpanzer E 100</item>
+        <item>Grille 15</item>
+        <item>Skorpion G </item>
+    </string-array>
+
+    <string-array name="sau">
+        <item>СУ-18</item>
+        <item>СУ-26</item>
+        <item>СУ-5</item>
+        <item>СУ-122А</item>
+        <item>СУ-8</item>
+        <item>С-51</item>
+        <item>СУ-14-1</item>
+        <item>СУ-14-2</item>
+        <item>212А</item>
+        <item>Объект 261</item>
+        <item>Grille</item>
+        <item>Hummel</item>
+        <item>G.W. Panther</item>
+        <item>G.W. Tiger (P)</item>
+        <item>G.W. Tiger</item>
+        <item>G.W. E 100</item>
+        <item>M12</item>
+        <item>M40/M43</item>
+        <item>M53/M55</item>
+        <item>T92 HMC</item>
+    </string-array>
+
+    <string-array name="other_flags">
+        <item>russia</item>
+        <item>cyprus</item>
+    </string-array>
+
+    <string-array name="other_file_names">
+        <item>russia.png</item>
+        <item>cyprus.png</item>
+    </string-array>
+
+</resources>
